@@ -1,0 +1,15 @@
+{
+  "name": "calorietracker",
+  "version": "1.0.0",
+  "description": "A mini project showcasing modular pattern, localstorage, and other features of Javascript which tracks calorie count of food items.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://vasu001.github.io/caloracer",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
